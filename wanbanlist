@@ -323,14 +323,18 @@
 61.51.80.178
 175.47.155.28
 49.156.149.154
-# This IP scanning for Log4J vuln
+#This IP scanning for Log4J vuln
 91.191.209.190
 5.189.132.145
 218.10.17.144
+220.194.70.77
+118.34.234.26
+104.12.62.156
+61.178.32.114
 #Search Engine Spider
 167.94.138.60
 167.94.145.58
-# SSL-VPN
+#SSL-VPN
 80.66.66.175
 49.37.222.130
 117.111.1.237 
@@ -338,17 +342,13 @@
 198.235.24.69
 205.210.31.24
 198.235.24.52
-#log4J Attack
-118.34.234.26
-104.12.62.156
-61.178.32.114
-#Attack from N.Korea
+# Attack from N.Korea
 175.197.65.47
-#suspicious IP from IRAQ 
+# suspicious IP from IRAQ 
 27.34.104.175
 49.204.96.229
 114.130.156.135
-#Buhti Ransomware Operation 
+# Buhti Ransomware Operation 
 91.215.85.183
 81.161.229.120
 # porn
