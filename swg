@@ -36,7 +36,7 @@
   eventbrite.in
   *.turn.teams.microsoft.com
   *.windowsupdate.com
-  www.gulftainer.com
+  *.gulftainer.com
   *.kaspersky.com
   rallydev.com
   windowsupdate.microsoft.com
